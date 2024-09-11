@@ -1,2 +1,2 @@
 # Form
-![Uploading Capture.PNG…]()
+public/Capture.PNG
